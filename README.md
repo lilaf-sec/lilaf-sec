@@ -14,7 +14,6 @@ If you're learning too — feel free to explore.
 
 ## 🧪 Practice platforms
 - Hack The Box  
-- TryHackMe  
 - VulnHub  
 
 ---
